@@ -10,7 +10,7 @@ https://www.kaggle.com/competitions/robi-datathon-2-pre-assessment
 Our Team: Datacon
 
 Team Members:
-* Rabeya Akter
-* Safaeid Hossain Arib
-* Md Sameer Iqbal Chowdhury
-* Hamim Sejdah Mugdho
+* [Rabeya Akter](https://www.linkedin.com/in/rabeya-akter-4a3111174/)
+* [Safaeid Hossain Arib](https://www.linkedin.com/in/safaeid-hossain-arib-2a859a1b5/)
+* [Md Sameer Iqbal Chowdhury](https://www.linkedin.com/in/msichowdhury/)
+* [Hamim Sejdah Mugdho](https://www.linkedin.com/in/h-s-mugdho-56120316a/)
